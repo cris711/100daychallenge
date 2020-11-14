@@ -6,6 +6,9 @@ Day2: printinfo.py
 Day3: datetime.py  
 Day4: in then out.py  
 Day5: circumference calc.py  
-Day6: calc(start)  
+Day6: calc.py(start)  
 Day7: adv.py(unfinished)  
-Day8:calendar switch
+11/12
+Day8: calendar switch.py
+Day9: calc.py (attempted)
+Day10: calc.py (finished)
