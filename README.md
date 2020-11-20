@@ -12,3 +12,9 @@ Day7: adv.py(unfinished)
 Day8: calendar switch.py
 Day9: calc.py (attempted)
 Day10: calc.py (finished)
+Day11: name reverse.py
+Day12: lists and tuples.py
+Day13: extension split.py
+Day14: color list.py
+11/19
+Day15: multiaddication.py
