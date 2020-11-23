@@ -18,3 +18,6 @@ Day13: extension split.py
 Day14: color list.py
 11/19
 Day15: multiaddication.py
+Day16: sphere volume.py
+Day17: asciicahrt.py
+Day18: within100.py
