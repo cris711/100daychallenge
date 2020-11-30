@@ -21,3 +21,10 @@ Day15: multiaddication.py
 Day16: sphere volume.py
 Day17: asciicahrt.py
 Day18: within100.py
+Day19: file read.py
+Day20: histogram.py
+Day21: evens and odds.py
+11/26
+Day22: caesar ciphor.py
+Day23: url data.py
+Day24: html parser
