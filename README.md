@@ -1,5 +1,5 @@
 # 100daychallenge
-I was turned onto a means to build a skillset called "your own 100 day challenge", in which as the name implies you take on the challenge of improving a skill over the span of 100 days. For myself I decided to improve my python (or java) skillset so for the 100 day span I have been programming python everyday whether it be a simple program or continuously building upon a more complex program.
+I was turned onto a means to build a skillset called "your own 100 day challenge", in which as the name implies you take on the challenge of improving a skill over the span of 100 days. For myself I decided to improve my python (or java) skillset, so for the 100 day span I have been programming python everyday whether it be a simple program or continuously building upon a more complex program.
 Started 11/5/2020
 Day1: hello.py  
 Day2: printinfo.py  
@@ -28,3 +28,9 @@ Day21: evens and odds.py
 Day22: caesar ciphor.py
 Day23: url data.py
 Day24: html parser
+Day25: within 5 or equal.py
+Day26: interest yearly calc.py
+Day27: get system info.py
+Day28: file check.py
+12/3
+Day29: write to file.py
