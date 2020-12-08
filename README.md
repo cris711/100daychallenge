@@ -34,3 +34,7 @@ Day27: get system info.py
 Day28: file check.py
 12/3
 Day29: write to file.py
+Day30: call greeting.py + greeting.py
+Day31: prime finder.py
+Day32: Cubic decending calc.py
+Day33: find 0 in list.py(start)
