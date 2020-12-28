@@ -37,4 +37,10 @@ Day29: write to file.py
 Day30: call greeting.py + greeting.py
 Day31: prime finder.py
 Day32: Cubic decending calc.py
-Day33: find 0 in list.py(start)
+Day33: find 0 in list.py
+Day34: learning classes.py
+Day35: zero counter.py
+Day36: print upper.py
+Day37: int to roman.py
+Day38: diamond.py
+Day39: diamond_reformatted.py

@@ -8,7 +8,7 @@ def list_to_int(inp,inp_list):
         if tmp_list[i].isspace():
             pass
 
-            # inp_list.pop(i)
+
         elif neg_bool == 1 and tmp_list[i] != "-":
             tmp = "-" + tmp_list[i]
             inp_list.append(float(tmp))
