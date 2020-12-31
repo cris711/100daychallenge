@@ -44,3 +44,5 @@ Day36: print upper.py
 Day37: int to roman.py
 Day38: diamond.py
 Day39: diamond_reformatted.py
+Day40: square.py
+Day41: shiftList.py
